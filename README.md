@@ -1,2 +1,2 @@
-# Gran-Tech_Project
-Gran Tech - Front-End Jr Project: A fictional website for Gran Tech, built with HTML, CSS, and JavaScript to showcase front-end development skills.
+# Gran Tech - Front-End Jr Project
+This project is a fictional website developed for the company Gran Tech, created as part of a personal Front-End Jr project. The template was implemented using technologies such as HTML, CSS, and JavaScript, with custom images designed in Canva. The goal of the development was to improve technical skills and demonstrate creative ability in designing modern and functional web interfaces. The website was created for personal purposes and serves as an example of front-end development.
